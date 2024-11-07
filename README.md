@@ -1,6 +1,6 @@
 <br>
 
-<h3 align="center">Folks! 👋, I'm <a href="https://instagram.com/ariefsaifuddien" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a> <img alt="idflag" width="22px" src="https://www.searchmap.eu/images/indonesia.png" /></h3>
+<h3 align="center">Folks! 👋, I'm <a href="https://instagram.com/ariefsaifuddien" target="_blank" rel="noreferrer"><strong>Arief Saifuddien</strong></a></h3>
 <p align="center"><code>Full-Stack Developer Jr.</code></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ariefsaifuddien" alt="Arief Saifuddien"/></p>
 
